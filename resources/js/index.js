@@ -14,10 +14,10 @@ const projectsData = [
     },
 
     {
-        imageSrc: '',
-        title: '',
-        projectLink: '',
-        githubLink: ''
+        imageSrc: 'resources/images/organic.png',
+        title: 'Organic Diabetic Landing Page',
+        projectLink: 'https://edomanuli.github.io/organic-diabetic/',
+        githubLink: 'https://github.com/edomanuli/organic-diabetic'
     },
 
 ]
